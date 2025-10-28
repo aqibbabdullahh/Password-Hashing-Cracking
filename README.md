@@ -11,7 +11,7 @@ You only need Python 3 installed on your system to run this project.
 How to Run
 Clone the Repository
 
-git clone https://github.com/ezFaith/Password-Hashing-Cracking
+git clone https://github.com/aqibbabdullahh/Password-Hashing-Cracking.git
 
 cd Password-Hashing-Cracking
 
@@ -38,6 +38,6 @@ Salting: As a next step, I will explore the concept of "salting" to make diction
 
 Connect with Me
 
-LinkedIn: https://www.linkedin.com/in/dipankarsaha2001/
+LinkedIn: https://www.linkedin.com/in/aqibabdullah/
 
-GitHub: https://github.com/ezFaith
+
